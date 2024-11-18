@@ -1,0 +1,284 @@
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\VendorWebservices.dll.config
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\VendorWebservices.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\VendorWebservices.pdb
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\VendorWebservices.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\csc.exe
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\csi.exe
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Http.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\WebGrease.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Http.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.Resources.resources
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.vbproj.CopyComplete
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.dll
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.xml
+C:\Users\User\source\repos\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.pdb
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\VendorWebservices.dll.config
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\VendorWebservices.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\VendorWebservices.pdb
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\VendorWebservices.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\csc.exe
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\csi.exe
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Http.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\WebGrease.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Http.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.Resources.resources
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.vbproj.CopyComplete
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.dll
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.xml
+C:\Users\User\source\repos\Fix Vendor\VendorWebservices\VendorWebservices\obj\Debug\VendorWebservices.pdb
+D:\Webservices\webservicesPtm\VendorWebservices\bin\VendorWebservices.dll.config
+D:\Webservices\webservicesPtm\VendorWebservices\bin\VendorWebservices.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\VendorWebservices.pdb
+D:\Webservices\webservicesPtm\VendorWebservices\bin\VendorWebservices.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\csc.exe
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\csc.exe.config
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\csc.rsp
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\csi.exe
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\csi.rsp
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\System.AppContext.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\System.Collections.Immutable.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\System.IO.FileSystem.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\vbc.exe
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\vbc.exe.config
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\vbc.rsp
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\VBCSCompiler.exe
+D:\Webservices\webservicesPtm\VendorWebservices\bin\roslyn\VBCSCompiler.exe.config
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Antlr3.Runtime.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.IdentityModel.Logging.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.Web.Infrastructure.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Newtonsoft.Json.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Net.Http.Formatting.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Helpers.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Http.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Http.WebHost.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Mvc.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Optimization.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Razor.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.WebPages.Deployment.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.WebPages.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.WebPages.Razor.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\WebGrease.dll
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.IdentityModel.Logging.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Newtonsoft.Json.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Net.Http.Formatting.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Helpers.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Http.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Http.WebHost.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Mvc.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Optimization.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.Razor.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.WebPages.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.WebPages.Deployment.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\System.Web.WebPages.Razor.xml
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Antlr3.Runtime.pdb
+D:\Webservices\webservicesPtm\VendorWebservices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Webservices\webservicesPtm\VendorWebservices\obj\Debug\VendorWebservices.vbproj.AssemblyReference.cache
+D:\Webservices\webservicesPtm\VendorWebservices\obj\Debug\VendorWebservices.Resources.resources
+D:\Webservices\webservicesPtm\VendorWebservices\obj\Debug\VendorWebservices.vbproj.GenerateResource.cache
+D:\Webservices\webservicesPtm\VendorWebservices\obj\Debug\VendorWebservices.vbproj.CoreCompileInputs.cache
+D:\Webservices\webservicesPtm\VendorWebservices\obj\Debug\VendorWebservices.vbproj.CopyComplete
+D:\Webservices\webservicesPtm\VendorWebservices\obj\Debug\VendorWebservices.dll
+D:\Webservices\webservicesPtm\VendorWebservices\obj\Debug\VendorWebservices.xml
+D:\Webservices\webservicesPtm\VendorWebservices\obj\Debug\VendorWebservices.pdb
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\VendorWebservices.dll.config
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\VendorWebservices.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\VendorWebservices.pdb
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\VendorWebservices.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\csc.exe
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\csc.rsp
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\csi.exe
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\csi.rsp
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\vbc.exe
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Http.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Razor.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\WebGrease.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Http.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.Razor.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\obj\Debug\VendorWebservices.vbproj.AssemblyReference.cache
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\obj\Debug\VendorWebservices.Resources.resources
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\obj\Debug\VendorWebservices.vbproj.GenerateResource.cache
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\obj\Debug\VendorWebservices.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\obj\Debug\VendorWebservices.dll
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\obj\Debug\VendorWebservices.xml
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\obj\Debug\VendorWebservices.pdb
+C:\Users\User\Documents\API\webservicesPtm-main\VendorWebservices\obj\Debug\VendorWe.11F70529.Up2Date
